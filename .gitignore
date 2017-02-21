@@ -1,0 +1,9 @@
+.idea
+/node_modules
+/public
+/bin/public
+/bin/uploads
+/bin/wwwdev.js
+/routes/mysql.js
+/views
+/bin
